@@ -1,0 +1,12 @@
+{
+  "name": "Self-esteem",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "description": "Show the relative position of your score numerically at the manaba grade pages.",
+  "content_scripts": [{
+    "matches": ["https://manaba.tsukuba.ac.jp/*"],
+    "js": [
+      "main.js"
+    ]
+  }]
+}
