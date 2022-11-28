@@ -1,3 +1,5 @@
+⚠ This repoitory's feature was transferred to [manaba Enhanced](https://github.com/manaba-enhanced-for-tsukuba/manaba-enhanced) and I suggest you use it.
+
 # self-esteem
 The chrome extension enables chrome to show the relative position of your score numerically at the manaba grade pages.
 
